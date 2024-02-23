@@ -1,2 +1,2 @@
-# Proyectos
-Este repositorio contiene los proyectos más releantes que he desarrollado a lo largo de mi trayectoria estudiantil, en las diferentes asignaturas. Están relacionados con temas de Machine Learning, estadística, sistemas dinámicos, modelación y simulación, entre otros.
+# Projects
+This repository contains the most relevant projects I have developed throughout my academic career, across various subjects. They are related to topics such as Machine Learning, statistics, dynamical systems, modeling, and simulation, among others.
